@@ -1,5 +1,5 @@
 **SALES DASHBOARD:**
-The Sales Dashboard provides a comprehensive overview of sales performance across various dimensions, including regional sales, product categories, leading cities, highest revenue states, most ordered sub-categories, and ship modes. It utilizes data visualization techniques to present insights into sales trends, patterns, and performance drivers.
+The Sales Dashboard provides a comprehensive overview of sales performance across various dimensions, including regional sales, product categories, leading cities, highest revenue states, most ordered sub-categories, and ship modes. It utilizes data visualization techniques to present insights into sales trends, patterns, and performance drivers. It collects information relaed to total Sales, regional Sales Performance, product Category Sales Performance and customer Segmentation
 
 **Problem Statement**
 Businesses need a consolidated and insightful view of their sales data to make informed decisions, optimize strategies, and drive growth. The Sales Dashboard addresses this need by providing a centralized platform for sales analysis and visualization.
