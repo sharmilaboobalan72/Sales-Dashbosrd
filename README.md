@@ -24,8 +24,8 @@ DATASET:https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 The Sales Dashboard is designed for the following users:
 
-Sales managers: Analyze sales performance, identify trends, and make data-driven decisions to improve sales outcomes.
+**Sales managers:** Analyze sales performance, identify trends, and make data-driven decisions to improve sales outcomes.
 
-Marketing managers: Understand customer preferences, product demand, and market trends to guide marketing strategies.
+**Marketing managers:** Understand customer preferences, product demand, and market trends to guide marketing strategies.
 
-Business executives: Gain insights into overall sales performance, identify areas for improvement, and make strategic decisions to drive business growth.
+**Business executives:** Gain insights into overall sales performance, identify areas for improvement, and make strategic decisions to drive business growth.
